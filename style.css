@@ -1,0 +1,35 @@
+body
+{
+    background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701481872.jpg);
+background-size: cover;
+}
+.main
+{
+    border: 2px solid grey;
+    width: 200px;
+    margin: 0 auto;
+}
+.result
+{
+    width: 96%;
+    background-color:white;
+    color: white;
+}
+.clearBtn
+{
+    width: 100%;
+    margin-top: 10px;
+    background-color: gray;
+
+}
+.btn{
+background-color:rgb(212, 166, 16);
+width: 45px;
+margin: 1px;
+}
+.halfbtn
+{
+    background-color: rgb(212, 166, 16);
+    width: 98px;
+    margin-top: 5px;
+}
